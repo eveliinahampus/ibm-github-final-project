@@ -9,7 +9,7 @@ Belongs to Coursera - DevOps and Software Engineering Specialization
 
 Includes also an example application that can be used to calculate simple interest.
 
-## Poject Structure
+## Project Structure
 
 ```
 IBM-GITHUB-FINAL-PROJECT/
