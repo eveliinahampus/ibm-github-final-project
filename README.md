@@ -9,6 +9,17 @@ Belongs to Coursera - DevOps and Software Engineering Specialization
 
 Includes also an example application that can be used to calculate simple interest.
 
+## Poject Structure
+
+```
+IBM-GITHUB-FINAL-PROJECT/
+├── CODE_OF_CONDUCT.md         # Code of conduct for contributors
+├── CONTRIBUTING.md            # Instructions for contributors 
+├── LICENSE                    # Project license information 
+├── README.md                  # Documentation for the project 
+└── simple-interest.sh         # Example script ofr demo purpose
+```
+
 ## Application
 
 ```
